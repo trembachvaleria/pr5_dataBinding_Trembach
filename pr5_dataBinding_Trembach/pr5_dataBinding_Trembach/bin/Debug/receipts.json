@@ -1,0 +1,83 @@
+[
+  {
+    "Id": 1,
+    "Date": "2026-10-26T00:00:00",
+    "CashNumber": 123,
+    "Cashier": "\u041B\u0435\u0440\u0430",
+    "Items": [
+      {
+        "Name": "\u0425\u043B\u0435\u0431",
+        "Price": 30,
+        "Count": 2,
+        "ItemTotal": 60
+      },
+      {
+        "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+        "Price": 60,
+        "Count": 1,
+        "ItemTotal": 60
+      },
+      {
+        "Name": "\u0427\u0438\u043F\u0441\u044B",
+        "Price": 100,
+        "Count": 1,
+        "ItemTotal": 100
+      }
+    ],
+    "Total": 220
+  },
+  {
+    "Id": 2,
+    "Date": "2026-10-01T00:00:00",
+    "CashNumber": 5,
+    "Cashier": "\u0412\u0438\u043A\u0430",
+    "Items": [
+      {
+        "Name": "\u0422\u0432\u043E\u0440\u043E\u0433",
+        "Price": 70,
+        "Count": 2,
+        "ItemTotal": 140
+      },
+      {
+        "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+        "Price": 60,
+        "Count": 3,
+        "ItemTotal": 180
+      },
+      {
+        "Name": "\u0421\u0443\u0445\u0430\u0440\u0438\u043A\u0438",
+        "Price": 20,
+        "Count": 5,
+        "ItemTotal": 100
+      }
+    ],
+    "Total": 420
+  },
+  {
+    "Id": 3,
+    "Date": "2026-10-10T00:00:00",
+    "CashNumber": 10,
+    "Cashier": "\u0428\u0430\u0445\u043E\u0434\u0430\u0442",
+    "Items": [
+      {
+        "Name": "\u042F\u0431\u043B\u043E\u043A\u043E",
+        "Price": 10,
+        "Count": 5,
+        "ItemTotal": 50
+      },
+      {
+        "Name": "\u0422\u044B\u043A\u0432\u0430",
+        "Price": 50,
+        "Count": 1,
+        "ItemTotal": 50
+      },
+      {
+        "Name": "\u0413\u0440\u0443\u0448\u0430",
+        "Price": 30,
+        "Count": 5,
+        "ItemTotal": 150
+      }
+    ],
+    "Total": 250
+  }
+]
